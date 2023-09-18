@@ -1,2 +1,2 @@
-# my-resolusi
-repository to store future plans
+# test github
+for learning github and main account
